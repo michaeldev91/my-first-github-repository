@@ -2,5 +2,3 @@
 here is my first github repository. lets get started with github
 
 This line was modified mannualy dureing conflicts resulotion
-
-New line was added locally
