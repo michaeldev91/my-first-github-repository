@@ -2,4 +2,4 @@
 here is my first github repository. lets get started with github
 
 This line was modified mannualy dureing conflicts resulotion
-This line made by michael.
+This line made by michael...
